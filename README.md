@@ -1,39 +1,29 @@
 <h1 align="center">Dmitriy (DmiRials)</h1>
-<p align="center">⚙️ SysAdmin • 🚀 DevOps • 🧠 Backend Engineer</p>
+
+<p align="center">
+  ⚙️ SysAdmin • 🌐 Network Engineer • 🚀 DevOps
+</p>
 
 ---
 
 ## 🧩 About
 
-Linux & Windows systems administrator focused on reliable infrastructure, automation and backend services.
+Linux & Windows systems administrator focused on network infrastructure, automation and self-hosted services.
 
-* 🐧 Linux (CentOS, Ubuntu)
-* 🪟 Windows systems administration
-* 🌐 Networking & MikroTik (routing, firewall, VPN)
-* 🔐 VPN setup & secure connectivity
-* 🏗 Infrastructure design, deployment & maintenance
-* 🤖 Automation & scripting
+I work with MikroTik, Linux servers, VPNs, routing, monitoring and infrastructure automation, while also developing lightweight backend tools and APIs for operational tasks.
 
 ---
 
 ## 🛠 Stack
 
-**🖥 OS**
-Linux (CentOS, Ubuntu) • Windows
+**🖥 Systems**
+Linux • Ubuntu • CentOS • Windows
 
 **🌐 Networking**
-MikroTik • VPN • Routing • Firewall
+MikroTik • RouterOS • Routing • Firewall • VPN
 
-**⚙️ DevOps / Infrastructure**
-GitHub Actions • Nginx
+**⚙️ Infrastructure**
+Nginx • Systemd • Git • GitHub Actions
 
-**💻 Backend / Scripting**
-Bash
-
----
-
-## 🎯 Focus
-
-* ⚙️ Infrastructure automation
-* 🌐 Network architecture & security
-* 🧠 Backend services
+**💻 Development**
+Python • Bash • PowerShell • REST API
